@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/User/Project/Sea_battle/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -IC:/Users/User/Project/Sea_battle/field -IC:/Users/User/Project/Sea_battle/player -IC:/Users/User/Project/Sea_battle/ship  -std=c++17 -g -o CMakeFiles\\main.dir\\main.cpp.obj -c C:\\Users\\User\\Project\\Sea_battle\\main.cpp",
+  "file": "C:\\Users\\User\\Project\\Sea_battle\\main.cpp",
+  "output": "CMakeFiles\\main.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Project/Sea_battle/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -IC:/Users/User/Project/Sea_battle/field  -std=c++17 -g -o FIELD\\CMakeFiles\\field.dir\\field.cpp.obj -c C:\\Users\\User\\Project\\Sea_battle\\FIELD\\field.cpp",
+  "file": "C:\\Users\\User\\Project\\Sea_battle\\FIELD\\field.cpp",
+  "output": "FIELD\\CMakeFiles\\field.dir\\field.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Project/Sea_battle/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -IC:/Users/User/Project/Sea_battle/field -IC:/Users/User/Project/Sea_battle/player  -std=c++17 -g -o PLAYERS\\CMakeFiles\\player.dir\\human.cpp.obj -c C:\\Users\\User\\Project\\Sea_battle\\PLAYERS\\human.cpp",
+  "file": "C:\\Users\\User\\Project\\Sea_battle\\PLAYERS\\human.cpp",
+  "output": "PLAYERS\\CMakeFiles\\player.dir\\human.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Project/Sea_battle/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -IC:/Users/User/Project/Sea_battle/field -IC:/Users/User/Project/Sea_battle/player -IC:/Users/User/Project/Sea_battle/ship  -std=c++17 -g -o SHIPS\\CMakeFiles\\ship.dir\\ship.cpp.obj -c C:\\Users\\User\\Project\\Sea_battle\\SHIPS\\ship.cpp",
+  "file": "C:\\Users\\User\\Project\\Sea_battle\\SHIPS\\ship.cpp",
+  "output": "SHIPS\\CMakeFiles\\ship.dir\\ship.cpp.obj"
+}
+]

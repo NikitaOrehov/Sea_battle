@@ -1,0 +1,12 @@
+C:/Users/User/Project/Sea_battle/build/CMakeFiles/main.dir
+C:/Users/User/Project/Sea_battle/build/CMakeFiles/edit_cache.dir
+C:/Users/User/Project/Sea_battle/build/CMakeFiles/rebuild_cache.dir
+C:/Users/User/Project/Sea_battle/build/FIELD/CMakeFiles/field.dir
+C:/Users/User/Project/Sea_battle/build/FIELD/CMakeFiles/edit_cache.dir
+C:/Users/User/Project/Sea_battle/build/FIELD/CMakeFiles/rebuild_cache.dir
+C:/Users/User/Project/Sea_battle/build/PLAYERS/CMakeFiles/player.dir
+C:/Users/User/Project/Sea_battle/build/PLAYERS/CMakeFiles/edit_cache.dir
+C:/Users/User/Project/Sea_battle/build/PLAYERS/CMakeFiles/rebuild_cache.dir
+C:/Users/User/Project/Sea_battle/build/SHIPS/CMakeFiles/ship.dir
+C:/Users/User/Project/Sea_battle/build/SHIPS/CMakeFiles/edit_cache.dir
+C:/Users/User/Project/Sea_battle/build/SHIPS/CMakeFiles/rebuild_cache.dir
